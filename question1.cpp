@@ -35,5 +35,6 @@ int main(){
 		}	
 		printf(a+b=c)
 	}
+	printf("gittest")
 	return 0;
 } 
