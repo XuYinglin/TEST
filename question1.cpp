@@ -33,6 +33,8 @@ int main(){
 		else{
 			printf("x = %lf",(-c)/b);
 		}	
+
 	}
+	printf("gittest")
 	return 0;
 } 
