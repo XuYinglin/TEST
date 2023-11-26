@@ -33,6 +33,7 @@ int main(){
 		else{
 			printf("x = %lf",(-c)/b);
 		}	
+		printf(a+b=c)
 	}
 	return 0;
 } 
